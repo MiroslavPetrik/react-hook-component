@@ -10,6 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/MiroslavPetrik/react-hook-component.git"
   },
+  "keywords": [
+    "react",
+    "component",
+    "reactClass",
+    "use",
+    "hooks",
+    "vue",
+    "angular",
+    "jquery",
+    "oop"
+  ],
   "author": "Miroslav Petrik <miroslavpetrik@outlook.com>",
   "license": "MIT",
   "peerDependencies": {
