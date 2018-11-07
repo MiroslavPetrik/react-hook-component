@@ -35,8 +35,8 @@ const Counter = createComponent({
     return (
       <div>
         <span>{count}</span>
-        <button>+</button>
-        <button>-</button>
+        <button onClick={this.handleIncrement}>+</button>
+        <button onClick={this.handleDecrement}>-</button>
       </div>
     );
   }
