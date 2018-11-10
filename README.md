@@ -3,6 +3,12 @@
 With the [React hooks](https://reactjs.org/docs/hooks-intro.html) the `React.Component` will be deprecated soon ⚰️.
 Not only this new hook all-functional API is disgusting 🤢, it also forces us to rewrite our apps, which takes greater than zero hours 💰. This project allows you to write your react components in the old-fasioned way, as you love ❤️ and are used to do. No need to learn new react, which will be deprecated in a year anyway.
 
+## Installation
+
+```
+npm install react-hook-component
+```
+
 ## Example
 
 ```js
