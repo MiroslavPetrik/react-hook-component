@@ -49,9 +49,9 @@ See `test.js`
 
 ## TODO
 
-- [] - implement getDefaultProps
-- [] - implement forceUpdate
-- [] - tests for state, props
-- [] - test shouldComponentUpdate when enzyme ready
+- implement getDefaultProps
+- implement forceUpdate
+- tests for state, props
+- test shouldComponentUpdate when enzyme ready
 
 Feel free to open PR if you want to help!
